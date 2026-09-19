@@ -1,0 +1,92 @@
+@import "tailwindcss";
+
+/* ─── Dark Mode: class strategy ─────────────────────────────────────────── */
+@variant dark (&:where(.dark, .dark *));
+
+@theme {
+  --font-sans: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  
+  /* Overriding default blue with the new Darker Purple theme (#7D00CC) */
+  --color-blue-50: #fdfaff;
+  --color-blue-100: #f4e8ff;
+  --color-blue-200: #e4c8ff;
+  --color-blue-300: #d19eff;
+  --color-blue-400: #bb66ff;
+  --color-blue-500: #9D00FF; /* Original purple */
+  --color-blue-600: #7D00CC; /* Darker purple */
+  --color-blue-700: #5E0099;
+  --color-blue-800: #460073;
+  --color-blue-900: #2F004D;
+  --color-blue-950: #170026;
+}
+
+/* Container max-width 1280px va mx-auto */
+@utility container {
+  margin-inline: auto;
+  padding-inline: 1rem;
+  max-width: 1280px;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    font-family: var(--font-sans);
+  }
+
+  body {
+    background-color: #ffffff;
+    color: #0f172a;
+    font-family: var(--font-sans);
+    -webkit-font-smoothing: antialiased;
+    transition: background-color 0.2s ease, color 0.2s ease;
+  }
+
+  /* Dark mode body override */
+  .dark body {
+    background-color: #0A0E17;
+    color: #f1f5f9;
+  }
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #f8fafc;
+}
+::-webkit-scrollbar-thumb {
+  background: #cbd5e1;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #94a3b8;
+}
+
+.dark ::-webkit-scrollbar-track {
+  background: #0f172a;
+}
+.dark ::-webkit-scrollbar-thumb {
+  background: #334155;
+}
+.dark ::-webkit-scrollbar-thumb:hover {
+  background: #475569;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(-4px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.animate-fadeIn {
+  animation: fadeIn 0.2s ease-out forwards;
+}
+
+@keyframes float {
+  0%, 100% { transform: translateY(0px); }
+  50% { transform: translateY(-8px); }
+}
+
+.animate-float {
+  animation: float 5s ease-in-out infinite;
+}

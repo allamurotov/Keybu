@@ -1,0 +1,155 @@
+{
+    "Navbar": {
+        "home": "Home",
+        "courses": "Courses",
+        "about": "About Us",
+        "contact": "Contact",
+        "login": "Sign In"
+    },
+    "hero": {
+        "title_gradient": "Learn the professions",
+        "title_part1": "of the future",
+        "title_part2": "with us!",
+        "subtitle": "How about studying for free and earning money? Don’t believe it? We will prove it. It all depends on you.",
+        "button": "Explore Courses"
+    },
+    "courses": {
+        "title": "Popular Courses",
+        "subtitle": "Join the ranks of professionals in the fastest and most effective way through career-oriented practicums. Each practicum is designed by industry experts based on the latest curriculum",
+        "price_label": "Course price:",
+        "view_all": "View all courses",
+        "card_description": "Learn the field from scratch and start your career in top companies",
+        "categories": {
+            "all": "All Courses",
+            "design": "Design",
+            "frontend": "Frontend",
+            "backend": "Backend",
+            "mobile": "Mobile",
+            "fullstack": "Full Stack",
+            "ai": "Artificial Intelligence",
+            "other": "Others"
+        }
+    },
+    "cta": {
+        "title": "Opportunity to study online from anywhere",
+        "subtitle": "We offer you this opportunity",
+        "registerBtn": "Register Now"
+    },
+    "join": {
+        "title": "Join Us",
+        "subtitle": "You can join us not only as a student, but also as a mentor if you have sufficient experience",
+        "studentTitle": "Are you a student?",
+        "studentDesc": "If you are a student, become an apprentice to our international expert mentors",
+        "studentBtn": "Get Started",
+        "mentorTitle": "Are you a mentor?",
+        "mentorDesc": "Join our team of authors and share your experience through an easy and convenient platform",
+        "mentorBtn": "Join Now"
+    },
+    "finalCta": {
+        "title": "Achieve success with us",
+        "subtitle": "The strongest stay with us!",
+        "introVideo": "Intro video",
+        "contact": "Contact Us",
+        "close": "Close",
+        "playVideo": "Play video",
+        "pause": "Pause",
+        "play": "Play"
+    },
+    "mentors": {
+        "title": "Experienced Mentors",
+        "subtitle": "All our courses are prepared by experienced mentors",
+        "roles": {
+            "frontend": "Frontend Developer",
+            "backend": "Backend Specialist",
+            "uiux": "UI/UX Designer",
+            "pm": "Product Manager",
+            "dataScientist": "Data Scientist",
+            "mobile": "Mobile Developer"
+        }
+    },
+    "testimonials": {
+        "title": "Testimonials",
+        "subtitle": "Reviews left by our students",
+        "items": {
+            "1": {
+                "role": "Frontend course student",
+                "comment": "Lorem ipsum dolor sit amet consectetur. Sit in eget posuere facilisis elementum. Est semper aenean erat est etiam sit. Auctor risus semper ultrices eleifend vel at. Pharetra turpis fames cursus sit in faucibus."
+            },
+            "2": {
+                "role": "Frontend course student",
+                "comment": "Lorem ipsum dolor sit amet consectetur. In mattis ullamcorper faucibus amet libero. Et varius lorem magna non ultricies dictum duis. Quis imperdiet parturient leo orci libero gravida. Tortor malesuada quam."
+            },
+            "3": {
+                "role": "Frontend course student",
+                "comment": "Lorem ipsum dolor sit amet consectetur. Lectus placerat convallis vel mauris. Donec nunc tincidunt mattis enim rhoncus viverra libero enim nulla. Faucibus eleifend commodo sollicitudin eu turpis risus vitae."
+            }
+        }
+    },
+    "footer": {
+        "copyright": "© 2026. All rights reserved",
+        "terms": "Terms",
+        "security": "Security"
+    },
+    "notFound": {
+        "title": "Page Not Found",
+        "description": "The page you are looking for does not exist, has been removed, or the address may be incorrect. Please make sure you typed the address correctly.",
+        "backHome": "Back to Home"
+    },
+    "error": {
+        "title": "Something Went Wrong",
+        "description": "An unexpected technical error occurred while loading the page. Please try again or return to the home page.",
+        "retry": "Try Again",
+        "backHome": "Home Page"
+    },
+    "coursesPage": {
+        "heading": "Our Courses",
+        "subheading": "Choose the direction that suits you and start learning",
+        "introVideo": "Intro Video",
+        "priceLabel": "Course price:",
+        "noCourses": "No courses available in this category yet.",
+        "filters": {
+            "all": "All Courses",
+            "design": "Design",
+            "frontend": "Frontend",
+            "backend": "Backend",
+            "mobile": "Mobile",
+            "fullstack": "Full Stack",
+            "ai": "Artificial Intelligence",
+            "other": "Others"
+        }
+    },
+    "aboutPage": {
+        "heading": "About Us",
+        "aboutText1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas elementum non dui non congue. Commodo ut mattis dignissim justo adipiscing odio quisque ut. Urna tellus at dui posuere neque. Posuere eget dictum turpis iaculis massa. Arcu pharetra sed tellus habitant tincidunt. Proin tempor aliquam sit ut amet sed erat. Vestibulum ut pellentesque quis id eu ullamcorper hendrerit. Vitae consequat massa tempor sed vitae ornare - nullam nibh. Eget tristique cras orci maecenas ac dolor vitae id. Malesuada morbi ultrices diam morbi vulputate odio purus. Placerat aliquam at duis at elementum.",
+        "aboutText2": "Diam commodo in curae orci id turpis eget sapien tincidunt. Cras id egestas mi netus venenatis at posuere cras porta. Morbi nam donec dignissim amet tortor justo lectus. Morbi at rutrum ultrices pulvinar at. Phasellus viverra enim tristique mattis.",
+        "aboutText3": "Vulputate nisl maecenas ipsum leo consectetur vulputate consequat. Egestas id et ultrices mauris duis fames. Mauris sit et at massa, urna commodo nibh gravida. Commodo accumsan varius dui dolor duis facilisi dolor sit. Egestas nisl vestibulum.",
+        "mediaGallery": "Media Gallery",
+        "certificates": "Certificates and Awards",
+        "paginationPrev": "Previous",
+        "paginationNext": "Next"
+    },
+    "courseDetail": {
+        "viewsLabel": "views",
+        "levelLabel": "Level:",
+        "courseDesc": "Build a solid foundation of core concepts and create interesting and useful applications!",
+        "buyButton": "Purchase",
+        "noImage": "No image available",
+        "studentsLabel": "Students",
+        "coursesLabel": "Courses",
+        "viewsCount": "Views",
+        "noLessons": "No lessons in this module yet",
+        "replyButton": "Reply",
+        "discussionsCount": "Discussions:"
+    },
+    "commentForm": {
+        "placeholder": "Write your comment..."
+    },
+    "student": {
+        "myCoursesTitle": "My Courses",
+        "noCourses": "You don't have any courses yet",
+        "loadingError": "Error loading courses",
+        "logout": "Sign Out",
+        "backToSite": "Back to Site",
+        "profileInfo": "Profile Information"
+    }
+}

@@ -1,0 +1,155 @@
+{
+    "Navbar": {
+        "home": "Главная",
+        "courses": "Курсы",
+        "about": "О нас",
+        "contact": "Контакты",
+        "login": "Войти"
+    },
+    "hero": {
+        "title_gradient": "Изучайте профессии",
+        "title_part1": "будущего",
+        "title_part2": "вместе с нами!",
+        "subtitle": "Как насчет того, чтобы учиться бесплатно и зарабатывать? Не верите? Мы это докажем. Все зависит от вас.",
+        "button": "Ознакомиться с курсами"
+    },
+    "courses": {
+        "title": "Популярные курсы",
+        "subtitle": "Присоединяйтесь к числу специалистов самым быстрым и эффективным способом с помощью практик. Каждая программа составлена экспертами по современной учебной программе",
+        "price_label": "Стоимость курса:",
+        "view_all": "Посмотреть все курсы",
+        "card_description": "Освойте профессию с 0 и начните свою карьеру в лучшей компании",
+        "categories": {
+            "all": "Все курсы",
+            "design": "Дизайн",
+            "frontend": "Frontend",
+            "backend": "Backend",
+            "mobile": "Мобильная разработка",
+            "fullstack": "Full Stack",
+            "ai": "Искусственный интеллект",
+            "other": "Другое"
+        }
+    },
+    "cta": {
+        "title": "Возможность учиться онлайн из любой точки",
+        "subtitle": "Мы предоставляем вам такую возможность",
+        "registerBtn": "Зарегистрироваться"
+    },
+    "join": {
+        "title": "Присоединяйтесь к нам",
+        "subtitle": "Вы можете присоединиться к нам не только в качестве студента, но и в качестве ментора, если у вас достаточно опыта",
+        "studentTitle": "Вы студент?",
+        "studentDesc": "Если вы студент, станьте учеником наших опытных менторов международного уровня",
+        "studentBtn": "Начать",
+        "mentorTitle": "Вы ментор?",
+        "mentorDesc": "Присоединяйтесь к нашей команде авторов и делитесь своим опытом через простую и удобную платформу",
+        "mentorBtn": "Присоединиться"
+    },
+    "finalCta": {
+        "title": "Достигайте успеха вместе с нами",
+        "subtitle": "Сильнейшие остаются с нами!",
+        "introVideo": "Интро видео",
+        "contact": "Связаться",
+        "close": "Закрыть",
+        "playVideo": "Воспроизвести видео",
+        "pause": "Пауза",
+        "play": "Воспроизвести"
+    },
+    "mentors": {
+        "title": "Опытные Наставники",
+        "subtitle": "Все наши курсы подготовлены опытными менторами",
+        "roles": {
+            "frontend": "Frontend Разработчик",
+            "backend": "Backend Специалист",
+            "uiux": "UI/UX Дизайнер",
+            "pm": "Mенеджер Продукта",
+            "dataScientist": "Data Scientist",
+            "mobile": "Мобильный Разработчик"
+        }
+    },
+    "testimonials": {
+        "title": "Отзывы",
+        "subtitle": "Отзывы, оставленные нашими студентами",
+        "items": {
+            "1": {
+                "role": "Студент курса Frontend",
+                "comment": "Lorem ipsum dolor sit amet consectetur. Sit in eget posuere facilisis elementum. Est semper aenean erat est etiam sit. Auctor risus semper ultrices eleifend vel at. Pharetra turpis fames cursus sit in faucibus."
+            },
+            "2": {
+                "role": "Студент курса Frontend",
+                "comment": "Lorem ipsum dolor sit amet consectetur. In mattis ullamcorper faucibus amet libero. Et varius lorem magna non ultricies dictum duis. Quis imperdiet parturient leo orci libero gravida. Tortor malesuada quam."
+            },
+            "3": {
+                "role": "Студент курса Frontend",
+                "comment": "Lorem ipsum dolor sit amet consectetur. Lectus placerat convallis vel mauris. Donec nunc tincidunt mattis enim rhoncus viverra libero enim nulla. Faucibus eleifend commodo sollicitudin eu turpis risus vitae."
+            }
+        }
+    },
+    "footer": {
+        "copyright": "© 2026. Все права защищены",
+        "terms": "Условия",
+        "security": "Безопасность"
+    },
+    "notFound": {
+        "title": "Страница не найдена",
+        "description": "Страница, которую вы ищете, не существует, была удалена или адрес может быть неверным. Убедитесь, что вы правильно ввели адрес.",
+        "backHome": "На главную"
+    },
+    "error": {
+        "title": "Что-то пошло не так",
+        "description": "При загрузке страницы произошла непредвиденная техническая ошибка. Пожалуйста, попробуйте ещё раз или вернитесь на главную страницу.",
+        "retry": "Попробовать снова",
+        "backHome": "Главная страница"
+    },
+    "coursesPage": {
+        "heading": "Наши курсы",
+        "subheading": "Выберите подходящее направление и начните обучение",
+        "introVideo": "Вступительное видео",
+        "priceLabel": "Стоимость курса:",
+        "noCourses": "В этой категории пока нет курсов.",
+        "filters": {
+            "all": "Все курсы",
+            "design": "Дизайн",
+            "frontend": "Frontend",
+            "backend": "Backend",
+            "mobile": "Мобильная разработка",
+            "fullstack": "Full Stack",
+            "ai": "Искусственный интеллект",
+            "other": "Другое"
+        }
+    },
+    "aboutPage": {
+        "heading": "О нас",
+        "aboutText1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas elementum non dui non congue. Commodo ut mattis dignissim justo adipiscing odio quisque ut. Urna tellus at dui posuere neque. Posuere eget dictum turpis iaculis massa. Arcu pharetra sed tellus habitant tincidunt. Proin tempor aliquam sit ut amet sed erat. Vestibulum ut pellentesque quis id eu ullamcorper hendrerit. Vitae consequat massa tempor sed vitae ornare - nullam nibh. Eget tristique cras orci maecenas ac dolor vitae id. Malesuada morbi ultrices diam morbi vulputate odio purus. Placerat aliquam at duis at elementum.",
+        "aboutText2": "Diam commodo in curae orci id turpis eget sapien tincidunt. Cras id egestas mi netus venenatis at posuere cras porta. Morbi nam donec dignissim amet tortor justo lectus. Morbi at rutrum ultrices pulvinar at. Phasellus viverra enim tristique mattis.",
+        "aboutText3": "Vulputate nisl maecenas ipsum leo consectetur vulputate consequat. Egestas id et ultrices mauris duis fames. Mauris sit et at massa, urna commodo nibh gravida. Commodo accumsan varius dui dolor duis facilisi dolor sit. Egestas nisl vestibulum.",
+        "mediaGallery": "Медиа галерея",
+        "certificates": "Сертификаты и награды",
+        "paginationPrev": "Назад",
+        "paginationNext": "Вперёд"
+    },
+    "courseDetail": {
+        "viewsLabel": "просмотров",
+        "levelLabel": "Уровень:",
+        "courseDesc": "Освойте прочную основу ключевых концепций и создайте интересные и полезные приложения!",
+        "buyButton": "Купить",
+        "noImage": "Изображение недоступно",
+        "studentsLabel": "Студенты",
+        "coursesLabel": "Курсы",
+        "viewsCount": "Просмотры",
+        "noLessons": "В этом модуле пока нет уроков",
+        "replyButton": "Ответить",
+        "discussionsCount": "Обсуждений:"
+    },
+    "commentForm": {
+        "placeholder": "Оставьте свой комментарий..."
+    },
+    "student": {
+        "myCoursesTitle": "Мои курсы",
+        "noCourses": "У вас еще нет курсов",
+        "loadingError": "Ошибка при загрузке курсов",
+        "logout": "Выход из профиля",
+        "backToSite": "Вернуться на сайт",
+        "profileInfo": "Информация профиля"
+    }
+}
