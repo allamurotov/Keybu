@@ -33,3 +33,5 @@ Ushbu papka Frontend (Next.js / React) loyihasi uchun unit testlar va UI kompone
 <!-- Test Doc Update #11: docs(frontend): document snapshot testing guidelines for UI elements -->
 
 <!-- Test Doc Update #12: docs(frontend): add form input validation test specifications -->
+
+<!-- Test Doc Update #13: docs(frontend): document accessibility (a11y) testing standards -->
