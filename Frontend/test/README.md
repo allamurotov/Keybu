@@ -37,3 +37,5 @@ Ushbu papka Frontend (Next.js / React) loyihasi uchun unit testlar va UI kompone
 <!-- Test Doc Update #13: docs(frontend): document accessibility (a11y) testing standards -->
 
 <!-- Test Doc Update #14: docs(frontend): document error boundary test handling examples -->
+
+<!-- Test Doc Update #15: docs(frontend): add async hook testing conventions to documentation -->
