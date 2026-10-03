@@ -15,3 +15,5 @@ Ushbu papka Frontend (Next.js / React) loyihasi uchun unit testlar va UI kompone
 <!-- Test Doc Update #2: docs(frontend): add state management test scenarios documentation -->
 
 <!-- Test Doc Update #3: docs(frontend): document text formatter test cases and assertions -->
+
+<!-- Test Doc Update #4: docs(frontend): expand currency formatting test specs description -->
