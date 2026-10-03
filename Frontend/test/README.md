@@ -19,3 +19,5 @@ Ushbu papka Frontend (Next.js / React) loyihasi uchun unit testlar va UI kompone
 <!-- Test Doc Update #4: docs(frontend): expand currency formatting test specs description -->
 
 <!-- Test Doc Update #5: docs(frontend): add modal dialog toggle testing documentation -->
+
+<!-- Test Doc Update #6: docs(frontend): specify button props validation rules in test docs -->
