@@ -43,3 +43,5 @@ Ushbu papka Frontend (Next.js / React) loyihasi uchun unit testlar va UI kompone
 <!-- Test Doc Update #16: docs(frontend): document navigation routing test fixtures -->
 
 <!-- Test Doc Update #17: docs(frontend): add performance benchmark testing guidelines -->
+
+<!-- Test Doc Update #18: docs(frontend): summarize test directory architecture and conventions -->
