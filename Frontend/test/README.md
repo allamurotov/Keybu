@@ -27,3 +27,5 @@ Ushbu papka Frontend (Next.js / React) loyihasi uchun unit testlar va UI kompone
 <!-- Test Doc Update #8: docs(frontend): include Vitest and RTL configuration best practices -->
 
 <!-- Test Doc Update #9: docs(frontend): outline mock service worker setup for API tests -->
+
+<!-- Test Doc Update #10: docs(frontend): add responsive layout test checklist in documentation -->
