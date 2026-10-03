@@ -31,3 +31,5 @@ Ushbu papka Frontend (Next.js / React) loyihasi uchun unit testlar va UI kompone
 <!-- Test Doc Update #10: docs(frontend): add responsive layout test checklist in documentation -->
 
 <!-- Test Doc Update #11: docs(frontend): document snapshot testing guidelines for UI elements -->
+
+<!-- Test Doc Update #12: docs(frontend): add form input validation test specifications -->
