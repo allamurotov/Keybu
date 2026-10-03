@@ -25,3 +25,5 @@ Ushbu papka Frontend (Next.js / React) loyihasi uchun unit testlar va UI kompone
 <!-- Test Doc Update #7: docs(frontend): add theme switcher unit test coverage notes -->
 
 <!-- Test Doc Update #8: docs(frontend): include Vitest and RTL configuration best practices -->
+
+<!-- Test Doc Update #9: docs(frontend): outline mock service worker setup for API tests -->
