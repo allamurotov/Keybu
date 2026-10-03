@@ -23,3 +23,5 @@ Ushbu papka Frontend (Next.js / React) loyihasi uchun unit testlar va UI kompone
 <!-- Test Doc Update #6: docs(frontend): specify button props validation rules in test docs -->
 
 <!-- Test Doc Update #7: docs(frontend): add theme switcher unit test coverage notes -->
+
+<!-- Test Doc Update #8: docs(frontend): include Vitest and RTL configuration best practices -->
