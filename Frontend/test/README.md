@@ -15,3 +15,5 @@ Ushbu papka Frontend (Next.js / React) loyihasi uchun unit testlar va UI kompone
 <!-- Test Doc Update #2: docs(testing): document component lifecycle testing scenarios -->
 
 <!-- Test Doc Update #3: docs(testing): add guidelines for state management integration tests -->
+
+<!-- Test Doc Update #4: docs(testing): document API client mocking strategies -->
