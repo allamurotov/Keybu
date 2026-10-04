@@ -11,3 +11,5 @@ Ushbu papka Frontend (Next.js / React) loyihasi uchun unit testlar va UI kompone
 - **React Testing Library** — React komponentlarini render qilish va tekshirish uchun
 
 <!-- Test Doc Update #1: docs(testing): update end-to-end testing workflow documentation -->
+
+<!-- Test Doc Update #2: docs(testing): document component lifecycle testing scenarios -->
