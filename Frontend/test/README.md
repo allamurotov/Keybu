@@ -33,3 +33,5 @@ Ushbu papka Frontend (Next.js / React) loyihasi uchun unit testlar va UI kompone
 <!-- Test Doc Update #11: docs(testing): update test coverage reporting guidelines -->
 
 <!-- Test Doc Update #12: docs(testing): add guidelines for responsive design breakpoint testing -->
+
+<!-- Test Doc Update #13: docs(testing): document error handling and error boundary tests -->
