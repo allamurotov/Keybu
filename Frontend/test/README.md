@@ -39,3 +39,5 @@ Ushbu papka Frontend (Next.js / React) loyihasi uchun unit testlar va UI kompone
 <!-- Test Doc Update #14: docs(testing): outline network retry and timeout test cases -->
 
 <!-- Test Doc Update #15: docs(testing): add security headers and token storage test specs -->
+
+<!-- Test Doc Update #16: docs(testing): document internationalization (i18n) test assertions -->
