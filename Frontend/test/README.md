@@ -43,3 +43,5 @@ Ushbu papka Frontend (Next.js / React) loyihasi uchun unit testlar va UI kompone
 <!-- Test Doc Update #16: docs(testing): document internationalization (i18n) test assertions -->
 
 <!-- Test Doc Update #17: docs(testing): clarify test execution commands and CI scripts -->
+
+<!-- Test Doc Update #18: docs(testing): summarize testing conventions and clean architecture -->
