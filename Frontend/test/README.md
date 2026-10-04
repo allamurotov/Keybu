@@ -27,3 +27,5 @@ Ushbu papka Frontend (Next.js / React) loyihasi uchun unit testlar va UI kompone
 <!-- Test Doc Update #8: docs(testing): add validation test cases for registration and login forms -->
 
 <!-- Test Doc Update #9: docs(testing): document custom hook test utility patterns -->
+
+<!-- Test Doc Update #10: docs(testing): add snapshot testing best practices for UI components -->
