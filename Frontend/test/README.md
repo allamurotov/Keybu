@@ -23,3 +23,5 @@ Ushbu papka Frontend (Next.js / React) loyihasi uchun unit testlar va UI kompone
 <!-- Test Doc Update #6: docs(testing): document performance test metrics and benchmarks -->
 
 <!-- Test Doc Update #7: docs(testing): specify accessibility (a11y) automated test criteria -->
+
+<!-- Test Doc Update #8: docs(testing): add validation test cases for registration and login forms -->
