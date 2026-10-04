@@ -17,3 +17,5 @@ Ushbu papka Frontend (Next.js / React) loyihasi uchun unit testlar va UI kompone
 <!-- Test Doc Update #3: docs(testing): add guidelines for state management integration tests -->
 
 <!-- Test Doc Update #4: docs(testing): document API client mocking strategies -->
+
+<!-- Test Doc Update #5: docs(testing): add edge case assertions for user authentication flows -->
