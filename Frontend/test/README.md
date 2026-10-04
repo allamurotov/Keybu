@@ -37,3 +37,5 @@ Ushbu papka Frontend (Next.js / React) loyihasi uchun unit testlar va UI kompone
 <!-- Test Doc Update #13: docs(testing): document error handling and error boundary tests -->
 
 <!-- Test Doc Update #14: docs(testing): outline network retry and timeout test cases -->
+
+<!-- Test Doc Update #15: docs(testing): add security headers and token storage test specs -->
