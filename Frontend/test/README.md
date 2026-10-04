@@ -31,3 +31,5 @@ Ushbu papka Frontend (Next.js / React) loyihasi uchun unit testlar va UI kompone
 <!-- Test Doc Update #10: docs(testing): add snapshot testing best practices for UI components -->
 
 <!-- Test Doc Update #11: docs(testing): update test coverage reporting guidelines -->
+
+<!-- Test Doc Update #12: docs(testing): add guidelines for responsive design breakpoint testing -->
