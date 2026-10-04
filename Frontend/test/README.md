@@ -21,3 +21,5 @@ Ushbu papka Frontend (Next.js / React) loyihasi uchun unit testlar va UI kompone
 <!-- Test Doc Update #5: docs(testing): add edge case assertions for user authentication flows -->
 
 <!-- Test Doc Update #6: docs(testing): document performance test metrics and benchmarks -->
+
+<!-- Test Doc Update #7: docs(testing): specify accessibility (a11y) automated test criteria -->
