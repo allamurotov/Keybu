@@ -118,3 +118,5 @@ Nest is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
 <!-- Architecture Note #10: docs(backend): document rate limiting and throttling policies for public APIs -->
 
 <!-- Architecture Note #11: docs(backend): add OpenAPI and Swagger documentation annotations guide -->
+
+<!-- Architecture Note #12: docs(backend): specify health check endpoints and microservice liveness probes -->
