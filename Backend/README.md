@@ -110,3 +110,5 @@ Nest is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
 <!-- Architecture Note #6: docs(backend): document logging interceptor and execution time tracking -->
 
 <!-- Architecture Note #7: docs(backend): add database connection pooling and migration workflow guide -->
+
+<!-- Architecture Note #8: docs(backend): document Prisma ORM schema indexing and query optimization -->
