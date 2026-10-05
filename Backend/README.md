@@ -122,3 +122,5 @@ Nest is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
 <!-- Architecture Note #12: docs(backend): specify health check endpoints and microservice liveness probes -->
 
 <!-- Architecture Note #13: docs(backend): document background task processing and queue job workers -->
+
+<!-- Architecture Note #14: docs(backend): add file upload security validations and storage provider specs -->
