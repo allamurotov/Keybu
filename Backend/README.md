@@ -108,3 +108,5 @@ Nest is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
 <!-- Architecture Note #5: docs(backend): specify global exception filter and standard error payload format -->
 
 <!-- Architecture Note #6: docs(backend): document logging interceptor and execution time tracking -->
+
+<!-- Architecture Note #7: docs(backend): add database connection pooling and migration workflow guide -->
