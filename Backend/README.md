@@ -96,39 +96,3 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
-
-<!-- Architecture Note #1: docs(backend): outline modular architecture and dependency injection guidelines -->
-
-<!-- Architecture Note #2: docs(backend): document request validation pipe and DTO transformation rules -->
-
-<!-- Architecture Note #3: docs(backend): add authentication flow specifications with JWT strategy -->
-
-<!-- Architecture Note #4: docs(backend): document role-based access control (RBAC) guard patterns -->
-
-<!-- Architecture Note #5: docs(backend): specify global exception filter and standard error payload format -->
-
-<!-- Architecture Note #6: docs(backend): document logging interceptor and execution time tracking -->
-
-<!-- Architecture Note #7: docs(backend): add database connection pooling and migration workflow guide -->
-
-<!-- Architecture Note #8: docs(backend): document Prisma ORM schema indexing and query optimization -->
-
-<!-- Architecture Note #9: docs(backend): outline Redis caching strategy for high-throughput endpoints -->
-
-<!-- Architecture Note #10: docs(backend): document rate limiting and throttling policies for public APIs -->
-
-<!-- Architecture Note #11: docs(backend): add OpenAPI and Swagger documentation annotations guide -->
-
-<!-- Architecture Note #12: docs(backend): specify health check endpoints and microservice liveness probes -->
-
-<!-- Architecture Note #13: docs(backend): document background task processing and queue job workers -->
-
-<!-- Architecture Note #14: docs(backend): add file upload security validations and storage provider specs -->
-
-<!-- Architecture Note #15: docs(backend): document environment configuration schema and secrets management -->
-
-<!-- Architecture Note #16: docs(backend): outline CORS security headers and helmet middleware settings -->
-
-<!-- Architecture Note #17: docs(backend): document WebSocket gateway event handlers and connection lifecycle -->
-
-<!-- Architecture Note #18: docs(backend): summarize microservices communication protocols and clean architecture -->
