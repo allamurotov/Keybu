@@ -116,3 +116,5 @@ Nest is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
 <!-- Architecture Note #9: docs(backend): outline Redis caching strategy for high-throughput endpoints -->
 
 <!-- Architecture Note #10: docs(backend): document rate limiting and throttling policies for public APIs -->
+
+<!-- Architecture Note #11: docs(backend): add OpenAPI and Swagger documentation annotations guide -->
