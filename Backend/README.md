@@ -128,3 +128,5 @@ Nest is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
 <!-- Architecture Note #15: docs(backend): document environment configuration schema and secrets management -->
 
 <!-- Architecture Note #16: docs(backend): outline CORS security headers and helmet middleware settings -->
+
+<!-- Architecture Note #17: docs(backend): document WebSocket gateway event handlers and connection lifecycle -->
