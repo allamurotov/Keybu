@@ -104,3 +104,5 @@ Nest is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
 <!-- Architecture Note #3: docs(backend): add authentication flow specifications with JWT strategy -->
 
 <!-- Architecture Note #4: docs(backend): document role-based access control (RBAC) guard patterns -->
+
+<!-- Architecture Note #5: docs(backend): specify global exception filter and standard error payload format -->
